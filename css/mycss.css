@@ -1,0 +1,31 @@
+header.navbar .nav>li.active>a, header.navbar .nav>li.active>a:hover {
+    color: #67BDF3;
+}
+header.navbar .nav>li>a:hover{
+    color: #67BDF3;
+}
+#bottom {
+    color: #77D0F3;
+}
+#direccion{
+    color: #77D0F3;
+}
+#footer{
+    color: #77D0F3;
+}
+#maininfo {
+    color: #000000;
+}
+#maininfo>h4{
+    color: #000000;
+}
+.btn-primary{
+    background-color: #67BDF3;
+}
+.btn-primary:hover{
+    background-color: #555555;
+    color: #67BDF3;
+}
+a {
+    color: #77D0F3;
+}
